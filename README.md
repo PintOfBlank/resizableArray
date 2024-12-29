@@ -13,8 +13,20 @@ append an int to it
 append(nameOfArray, valuePush);
 ```
 
+removing something from a certain index
+
+```c
+pop(nameOfArray, index);
+```
+
+destroying array
+
+```c
+destroy(nameOfArray);
+```
+
 improvements needed:
 - insert method
 - remove element in list taken the value (like pop but for a value)
 - encapsulate needing a pointer to make a new arraylist
-- different typed ints
+- different types other then int
