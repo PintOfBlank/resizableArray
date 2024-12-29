@@ -40,7 +40,7 @@ void *append(int valuePushed, struct ArrayList* takenArray) {
     if (takenArray->size >= takenArray->capacity) {
 
 
-        takenArray->items = realloc(takenArray->items, sizeof(int) * takenArray->capacity + 10);
+        takenArray->items = realloc(takenArray->items, sizeof(int) * (takenArray->capacity + 10));
 
         if (takenArray->items == NULL) {
             printf("Reallocation Heap Failure");
