@@ -1,4 +1,4 @@
-an implmentation of Java ArrayList in the c programming languages
+an implmentation of Java ArrayList in the c programming language
 
 improvements needed:
 - insert method
