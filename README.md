@@ -30,3 +30,4 @@ improvements needed:
 - remove element in list taken the value (like pop but for a value)
 - encapsulate needing a pointer to make a new arraylist
 - different types other then int
+- inital size declaration or capacity declaration
