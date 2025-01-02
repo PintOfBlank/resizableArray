@@ -31,3 +31,4 @@ improvements needed:
 - encapsulate needing a pointer to make a new arraylist / encapsulate methods into a class
 - different types other then int
 - inital size declaration or capacity declaration
+- indexing method
