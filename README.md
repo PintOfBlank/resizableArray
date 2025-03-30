@@ -10,15 +10,10 @@ ArrayList* nameOfArray = new();
 append an int to it
 
 ```c
-append(nameOfArray, valuePush);
+append(valuePushing, nameOfArray);
 ```
 
 removing something from a certain index
-
-```c
-pop(nameOfArray, index);
-```
-pooping an item out of the array
 
 ```c
 pop(index, nameOfArray);
@@ -27,7 +22,7 @@ pop(index, nameOfArray);
 inserting an int into array
 
 ```c
-insert(index, valueAdd, nameOfArray);
+insert(index, valuePushing, nameOfArray);
 ```
 
 destroying array
