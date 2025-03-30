@@ -18,6 +18,17 @@ removing something from a certain index
 ```c
 pop(nameOfArray, index);
 ```
+pooping an item out of the array
+
+```c
+pop(index, nameOfArray);
+```
+
+inserting an int into array
+
+```c
+insert(index, valueAdd, nameOfArray);
+```
 
 destroying array
 
