@@ -24,6 +24,11 @@ inserting an int into array
 ```c
 insert(index, valuePushing, nameOfArray);
 ```
+replacing an item in an array
+
+```c
+replace(index, valuePushing, nameOfArray);
+```
 
 destroying array
 
